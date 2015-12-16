@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\jgarne200\desktop\programming 1 coursework\programming 1 coursework\</FILEPATH><FILENAME>cinputmgr.cpp</FILENAME><LINE>116</LINE><COLUMN>1</COLUMN></SFA><DEFECTCODE>6295</DEFECTCODE><DESCRIPTION>Ill-defined for-loop:  'unsigned char' values are always of range '0' to '255'.  Loop executes infinitely.</DESCRIPTION><FUNCTION>cInputMgr::anyKeyPressed</FUNCTION><DECORATED>?anyKeyPressed@cInputMgr@@QAE_NXZ</DECORATED><FUNCLINE>114</FUNCLINE><PATH/></DEFECT></DEFECTS>
